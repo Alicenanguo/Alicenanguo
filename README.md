@@ -1,5 +1,5 @@
 
-💫 About Me:
+## 💫 About Me:
 Hi there👋! My name is Nan Guo, I'm a full stack software engineer.
 
 ## 🌐 Socials:
