@@ -1,4 +1,7 @@
 
+💫 About Me:
+Hi there👋! My name is Nan Guo, I'm a full stack software engineer.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nan-guo-a7762325a) 
 
