@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-                                               Hi there👋! My name is Nan Guo, I'm a
+                                        Hi there👋! My name is Nan Guo, I'm a
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=800&size=25&color=FCE4A8&center=true&vCenter=true&width=435&lines=Fullstack+Software+Engineer" alt="Typing SVG" /></a>
 <p>
