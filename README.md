@@ -1,9 +1,12 @@
  <h3 align="center">
-      Hi there👋! My name is Nan Guo. Nice to meet you!
+      Hi there 👋 ! My name is Nan Guo. Nice to meet you!
  </h3>
  
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=800&size=25&color=FCE4A8&center=true&vCenter=true&width=435&lines=Fullstack+Software+Engineer" alt="Typing SVG" /></a>
 <p>
+ <div align='center'>
+ <image src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="340" height="auto" >
+</div>
 
 
 
